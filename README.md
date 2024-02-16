@@ -1,2 +1,4 @@
-# Wyllah-Hughes
-Hello.c
+int main (hello.c)
+
+int main (void)
+
